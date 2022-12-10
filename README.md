@@ -1,4 +1,4 @@
-# CSC207 Project: Lost-the Game
+# CSC207 Project: Text-Based Java Game
 
 As of December 7, we have finished all of the features of the game. Since the Milestone 4 deadline, we have finished 
 our UI and have a working version of the game. After receiving the Milestone 4 feedback, we refactored our code 
@@ -17,8 +17,7 @@ and SOLID principles, and we added tests to our test folder, showing an increase
 - [X] Player data classes and interactors
 - [X] UI and game screen
 - [X] Working game
-- 
-- 
+
 ## How to Run the Game
 Run the Main program.
  
